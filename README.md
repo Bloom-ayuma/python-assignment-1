@@ -30,5 +30,3 @@ def calculator():
         # Handle the case where the user inputs a non-numeric value
         print("Error: Please enter valid numbers (10, 5).")
 
-# Call the calculator function to execute the program
-calculator()
